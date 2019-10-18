@@ -13,7 +13,7 @@ Release Date: 2019-10-21
 
 ### Insights
 
-
++ [Vignette: Google Trends with the gtrendsR package](https://martinctc.github.io/blog/vignette-google-trends-with-gtrendsr/)
 
 
 ### R in the Real World
